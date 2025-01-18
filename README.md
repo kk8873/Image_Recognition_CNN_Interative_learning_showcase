@@ -1,7 +1,15 @@
-Unveiling the Magic of Convolutional Neural Networks: A Hands-On Journey into Image Recognition
+##Unveiling the Magic of Convolutional Neural Networks: A Hands-On Journey into Image Recognition
 
 Welcome to the repository for "Unveiling the Magic of Convolutional Neural Networks: A Hands-On Journey into Image Recognition"! This project focuses on the implementation and exploration of Convolutional Neural Networks (CNNs) for image and face recognition tasks. It includes the codebase, working examples, presentations, and a demo video for a comprehensive learning experience.
 
+Demo Video:
+A video demonstration of the project in action.
+
+## Demo Video
+
+https://github.com/user-attachments/assets/a615ada1-1684-485b-8e7b-5cb8b253cc32
+
+Watch the Demo Video
 Project Overview
 This project serves as a practical guide to understanding the principles and applications of CNNs in image recognition. By diving into the code, presentations, and demo video, users will gain insights into:
 
@@ -23,15 +31,6 @@ Step-by-step walkthrough of the project.
 Working Demo:
 Output images and logs showcasing the performance of the model.
 Comparisons of predictions with ground truth.
-
-Demo Video:
-A video demonstration of the project in action.
-
-## Demo Video
-
-https://github.com/user-attachments/assets/a615ada1-1684-485b-8e7b-5cb8b253cc32
-
-Watch the Demo Video
 
 Click on the link above to see the project in action.
 How to Use
